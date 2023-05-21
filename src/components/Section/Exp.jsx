@@ -47,7 +47,7 @@ const Exp = () => {
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
-                <h4>JQuery</h4>
+                <h4>Redux</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -59,6 +59,14 @@ const Exp = () => {
                 <small className="text-light">Experienced</small>
               </div>
             </article>
+            <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4> API</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
           </div>
         </div>
 
@@ -80,14 +88,15 @@ const Exp = () => {
                 <small className="text-light">Experienced</small>
               </div>
             </article>
-
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
-                <h4>Python</h4>
+                <h4>Sql</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
+
+
 
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
@@ -108,10 +117,18 @@ const Exp = () => {
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
-                <h4>Heroku</h4>
+                <h4>PHP</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
+            <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>MySql</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            
           </div>
         </div>
       </div>

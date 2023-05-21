@@ -103,14 +103,14 @@ const Nav = ({ inView }) => {
               onClick={() => {
                 Notification.requestPermission().then((perm) => {
                   if (perm === "granted") {
-                    new Notification("Aarab's Portfolio", {
+                    new Notification("othman's Portfolio", {
                       body: "Seems like you are looking for my CV but unfortunately I don't have one yet. I will update this section as soon as I have one. Thank you hope you enjoy my portfolio.",
-                      icon: "https://raw.githubusercontent.com/losier/v4/master/src/assets/Logo/android-chrome-512x512.png",
+                      icon: "https://avatars.githubusercontent.com/u/97992637?v=4",
                       image:
                         "https://raw.githubusercontent.com/losier/v4/master/src/assets/othersPics/logo.png",
                       vibrate: true,
                       timestamp: true,
-                      tag: "Aarab's Portfolio",
+                      tag: "othman's Portfolio",
                     });
                   } else {
                     alert(

@@ -58,7 +58,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hello! My name is <span>Aarab Nishchal</span> and I enjoy creating
+            Hello! My name is <span>Othma Saleh</span> and I enjoy creating
             things that live on the internet. My interest in web development
             started back in high school and has been something that's been a
             part of my life for the past few years.

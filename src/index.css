@@ -25,7 +25,7 @@
   list-style: none;
   text-decoration: none;
   font-family: "default";
-  cursor: none;
+  /* cursor: none; */
 }
 
 *::-webkit-scrollbar {

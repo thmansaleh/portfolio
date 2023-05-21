@@ -16,7 +16,7 @@ const Footer = () => {
     <footer id="footer">
       <div className="footer__wrapper">
         <a href="/" className="footer_logo">
-          Aarab Nishchal
+          Othman Saleh
         </a>
 
         <ul className="permalinks">
@@ -45,30 +45,10 @@ const Footer = () => {
           >
             <FaGithub />
           </a>
-          <a
-            href={`https://www.instagram.com/${config.instagramUsername}/`}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaInstagram />
-          </a>
-          <a
-            href={`https://twitter.com/${config.twitterUsername}`}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaTwitter />
-          </a>
-          <a
-            href={`https://www.facebook.com/${config.facebookUsername}/`}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaFacebookSquare />
-          </a>
-          <a href={config.linktree} target="_blank" rel="noreferrer">
-            <SiLinktree />
-          </a>
+         
+         
+        
+         
         </div>
         <div className="rocket_container">
           <a href={"/#"} className="rocket">

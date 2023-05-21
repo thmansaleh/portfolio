@@ -22,7 +22,7 @@ const HomePage = (props) => {
 
   return (
     <>
-      <DotRing />
+      {/* <DotRing /> */}
       <Nav inView={inView} />
       <Header setInView={setInView} />
       <About setInView={setInView} />
@@ -45,7 +45,7 @@ const Home = (props) => {
   }, []);
 
   return (
-    <div>{loading ? <PreLoader /> : <HomePage section={props.section} />}</div>
+    <div><HomePage section={props.section} /></div>
   );
 };
 

@@ -8,7 +8,7 @@ import RepoStats from "../ExternalComponents/RepoStats";
 const Project = () => {
   return (
     <>
-      <DotRing />
+      {/* <DotRing /> */}
       <div>
         <Nav />
         <div className="project_container">
