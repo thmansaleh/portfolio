@@ -62,16 +62,16 @@ const Contact = () => {
             </a>
           </article>
 
-          <article className="contact_option">
+          {/* <article className="contact_option">
             <FaTelegramPlane className="contact_icons" />
             <h4>Telegram</h4>
             <h5>{config.telegram}</h5>
             <a href={config.telegram} target="_blank" rel="noreferrer">
               Send a message
             </a>
-          </article>
+          </article> */}
 
-          <article className="contact_option">
+          {/* <article className="contact_option">
             <BsSnapchat className="contact_icons" />
             <h4>Snapchat</h4>
             <h5>nishu.kr</h5>
@@ -82,7 +82,7 @@ const Contact = () => {
             >
               Send a message
             </a>
-          </article>
+          </article> */}
         </div>
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder="Your Name" required />
