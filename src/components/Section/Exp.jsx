@@ -59,6 +59,42 @@ const Exp = () => {
                 <small className="text-light">Experienced</small>
               </div>
             </article>
+
+
+ <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>Next Js</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+
+
+
+
+ <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>Tailwind CSS</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+
+
+ <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>SWR</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+
+
+
+
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
