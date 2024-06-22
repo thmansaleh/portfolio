@@ -52,6 +52,17 @@ const Exp = () => {
               </div>
             </article>
 
+
+ <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>Git - GitHub</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+
+
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
