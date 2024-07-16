@@ -13,22 +13,22 @@
   "linktree": "https://linktr.ee/zzcwc",
   "mail": "thman.saleh@gmail.com",
   "mail2": "thman.saleh@gmail.com",
-  "numberOfAchivement": "69",
+  "numberOfAchivement": "22",
   "myImage": "https://avatars.githubusercontent.com/u/97992637?v=4",
   "demoProjects": [
     {
       "id": 1,
-      "image": "https://www.emiratesrc.ae/static/media/logo_desktop_whiteV2.9cf2a82b.svg",
-      "title": "Emirates Red Crescent",
-      "github": "https://github.com/thmansaleh/Emirates-red-crescent",
-      "demo": "https://www.emiratesrc.ae"
+      "image": "https://store-next-wheat.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.93bc8345.png&w=1200&q=75",
+      "title": "store",
+      "github": "https://github.com/thmansaleh/store-next",
+      "demo": "https://store-next-wheat.vercel.app"
     },
     {
       "id": 2,
-      "image": "https://www.dxbportal.com/wp-content/uploads/2019/07/Tasheelservicebanner-1024x1024.jpg",
-      "title": "Tsheel",
-      "github": "https://github.com/thmansaleh/tasheel",
-      "demo": ""
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOdzzrudxv15r7VRLivGR33fCT2E5H0CNtQ&s",
+      "title": "RTA",
+      "github": "https://github.com/thmansaleh/admin",
+      "demo": "https://admin-eta-five.vercel.app/login"
     }
   ]
 }
