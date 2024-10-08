@@ -24,7 +24,7 @@ const Exp = () => {
               <BsPatchCheck className="experience_details-icons" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Tailwind, Bootstrap</small>
               </div>
             </article>
 
@@ -36,19 +36,13 @@ const Exp = () => {
               </div>
             </article>
 
-            <article className="experience_details">
-              <BsPatchCheck className="experience_details-icons" />
-              <div>
-                <h4>Bootstrap</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
+   
 
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
-                <h4>Redux</h4>
-                <small className="text-light">Experienced</small>
+                <h4>State Management</h4>
+                <small className="text-light">Redux, Redux Toolkit</small>
               </div>
             </article>
 
@@ -56,8 +50,8 @@ const Exp = () => {
  <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
-                <h4>Git - GitHub</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Version Control System</h4>
+                <small className="text-light">Git,GitHub</small>
               </div>
             </article>
 
@@ -84,21 +78,15 @@ const Exp = () => {
 
 
 
- <article className="experience_details">
-              <BsPatchCheck className="experience_details-icons" />
-              <div>
-                <h4>Tailwind CSS</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
+ 
 
 
 
  <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
-                <h4>SWR</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Fetch Data</h4>
+                <small className="text-light">SWR, Axios</small>
               </div>
             </article>
 
@@ -110,7 +98,7 @@ const Exp = () => {
               <BsPatchCheck className="experience_details-icons" />
               <div>
                 <h4> API</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">API integration,  Rest full API</small>
               </div>
             </article>
 
@@ -131,18 +119,11 @@ const Exp = () => {
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
-                <h4>MongoDB</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Database</h4>
+                <small className="text-light">MySql, SQL</small>
               </div>
             </article>
-            <article className="experience_details">
-              <BsPatchCheck className="experience_details-icons" />
-              <div>
-                <h4>Sql</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-
+            
 
 
             <article className="experience_details">
@@ -153,28 +134,10 @@ const Exp = () => {
               </div>
             </article>
 
-            <article className="experience_details">
-              <BsPatchCheck className="experience_details-icons" />
-              <div>
-                <h4>Postman</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
+            
 
-            <article className="experience_details">
-              <BsPatchCheck className="experience_details-icons" />
-              <div>
-                <h4>PHP</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheck className="experience_details-icons" />
-              <div>
-                <h4>MySql</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
+            
+            
             
           </div>
         </div>
