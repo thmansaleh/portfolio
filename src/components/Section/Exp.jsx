@@ -144,8 +144,23 @@ const Exp = () => {
               </div>
             </article>
 
+<article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>Hosting</h4>
+                <small className="text-light">Hostinger, Firebase,  Vercel</small>
+              </div>
+            </article>
             
 
+
+<article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>Security</h4>
+                <small className="text-light">JWT, Limiter</small>
+              </div>
+            </article>
             
             
             
