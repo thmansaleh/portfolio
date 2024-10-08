@@ -46,6 +46,16 @@ const Exp = () => {
               </div>
             </article>
 
+ <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h4>Page Rendering</h4>
+                <small className="text-light">SSR, CSR</small>
+              </div>
+            </article>
+
+
+
 
  <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
