@@ -29,6 +29,19 @@
       "title": "RTA",
       "github": "https://github.com/thmansaleh/admin",
       "demo": "https://admin-eta-five.vercel.app/login"
+    },
+
+
+
+    {
+      "id": 3,
+      "image": "https://www.krafo.com/static/images/krafo_logo.png",
+      "title": "Ad Platform",
+      "github": "https://github.com/thmansaleh",
+      "demo": "https://www.krafo.com"
     }
+
+
+
   ]
 }
