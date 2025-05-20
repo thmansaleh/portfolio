@@ -4,7 +4,7 @@ const CTA = () => {
   return (
     <div className="cta">
       <a
-      href="https://saba.cc/CV.pdf"
+      href="https://firebasestorage.googleapis.com/v0/b/store-6d415.firebasestorage.app/o/myfiles%2FFull stack developer.pdf?alt=media&token=f3614cdf-e95a-4267-b2d2-18b67e92a5d0"
         className="btn"
       >
         Download CV
