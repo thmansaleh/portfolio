@@ -36,7 +36,7 @@
     },
  {
       "id": 4,
-      "image": https://firebasestorage.googleapis.com/v0/b/store-6d415.firebasestorage.app/o/myfiles%2Flogo.png?alt=media&token=3dd6fb9c-9f71-4b9f-9e0b-57eb2fd3f7b5",
+      "image": "https://firebasestorage.googleapis.com/v0/b/store-6d415.firebasestorage.app/o/myfiles%2Flogo.png?alt=media&token=3dd6fb9c-9f71-4b9f-9e0b-57eb2fd3f7b5",
       "title": "boutiqaat",
       "github": "#",
       "demo": "https://www.boutiqaat.com"
